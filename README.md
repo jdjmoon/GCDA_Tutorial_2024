@@ -18,7 +18,7 @@ TA : Chang Hoon Kang (chkang96@snu.ac.kr)
 TA : Na Yeon Kim (nayeonkim1@snu.ac.kr)
 
 ### Session 5 - EHR
-TA : Hunhyeong Lee (lrainsoul@snu.ac.kr)
+TA : Junhyeong Lee (lrainsoul@snu.ac.kr)
 
 ### Session 6 - Medical Image Analysis
 TA : Wonyoung Jang (jwy4888@snu.ac.kr)
