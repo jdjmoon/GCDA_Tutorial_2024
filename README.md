@@ -1,6 +1,7 @@
 # GCDA_Tutorial_2024
 
-This repository is built for Genomic & Clinical Data Analysis (2024 Fall) 
+This repository is built for Genomic & Clinical Data Analysis (2024 Fall).
+
 On some of practice session, process and codes will be posted.
 
 ## Practice Session List
